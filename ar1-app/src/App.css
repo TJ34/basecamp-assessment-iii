@@ -1,0 +1,32 @@
+.Push {
+    display: flex;
+    justify-content: center;
+    
+}
+Button {
+    background-color: red;
+    color: black;
+    padding: 50px;
+    font-size: 20px;
+    margin: 20px;
+    border-radius: 50%;
+    width: 150px;
+}
+h1 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    background-color: orange;
+    padding: 20px;
+}
+.Ready {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+.For {
+    background-color: darkslategray;
+    color: white;
+    padding: 40px;
+    margin: 20px;
+}
